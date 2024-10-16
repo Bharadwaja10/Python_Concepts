@@ -1,2 +1,0 @@
-This is the sample file.
-it is a next line.
